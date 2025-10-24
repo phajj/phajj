@@ -29,3 +29,6 @@ Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimac
 ## Second Year (Current Year)
 * [CSC2710] Analysis of Algorithms  
 * [CSC3120] Programming Languages
+* [CSC3720] Computer Architecture ![Planned](https://img.shields.io/badge/Planned-Spring_2026-lightgrey?style=flat-square)
+* [CSC3030] Randomized Algorithms ![Planned](https://img.shields.io/badge/Planned-Spring_2026-lightgrey?style=flat-square)
+* [CSC2620] Object Oriented Design ![Planned](https://img.shields.io/badge/Planned-Spring_2026-lightgrey?style=flat-square)
