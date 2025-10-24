@@ -1,4 +1,8 @@
-### Hi there!
+### Hi there!👋
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkyZXQ3OXlpaHg0ZHlvaDdsd2w5bTk3dzBpMHFleXJ3eWs1ejhiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100" alt="Waving hand">
+</p>
 
 # Bio
 Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimack College**. This repository documents all the courses I have completed and am currently taking, as well as the projects I’m developing or have previously worked on. I am actively updating this repository as I achieve new progress in projects and classes.
