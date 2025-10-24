@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi There!
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJmcXQyOXh1Y2NybmRsOHJ0N28zZnMzbzQ4MGJocGtpNXNnd3piZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tHIRLHtNwxpjIFqPdV/giphy.gif" alt="Welcome GIF" width="100">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXNnZnp6Y2FpZzJmeHE3bHB3M2ljeHNhdDN0MGw2NnNvNGN4dHFtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QYkX9IMHthYn0Y3pcG/giphy.gif" alt="Welcome GIF" width="100">
 
 
 # Bio
