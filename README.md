@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXNnZnp6Y2FpZzJmeHE3bHB3M2ljeHNhdDN0MGw2NnNvNGN4dHFtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QYkX9IMHthYn0Y3pcG/giphy.gif" alt="Welcome GIF" width="350">
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXNnZnp6Y2FpZzJmeHE3bHB3M2ljeHNhdDN0MGw2NnNvNGN4dHFtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QYkX9IMHthYn0Y3pcG/giphy.gif" alt="Welcome GIF" width="350">
+</div>
 
 # Bio
 Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimack College**. This repository documents all the courses I have completed and am currently taking, as well as the projects I’m developing or have previously worked on. I am actively updating this repository as I achieve new progress in projects and classes.
