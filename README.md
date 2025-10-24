@@ -1,7 +1,7 @@
 <div align="center">
 
-# Welcome!
-<img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" alt="Welcome GIF" width="100">
+# Hi There!
+<img src="https://tenor.com/view/hello-waving-frog-wave-gif-23984000" alt="Welcome GIF" width="100">
 
 
 # Bio
