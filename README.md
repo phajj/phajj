@@ -12,6 +12,8 @@ Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimac
 ## This semester, I am taking
 * Programming Languages  
 * Analysis of Algorithms
+* Networking — *deferred completion, retake planned for Fall 2027*
+
 
 ## How to reach me
 * [Email](mailto:hajjp@merrimack.edu)  
