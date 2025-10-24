@@ -1,8 +1,8 @@
-# Hi there! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://media.tenor.com/kP3zR9Y2xXcAAAAC/hello-waving-frog.gif" width="200" alt="Hello Waving Frog">
-</p>
+# Welcome!
+<img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" alt="Welcome GIF" width="100">
+
 
 # Bio
 Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimack College**. This repository documents all the courses I have completed and am currently taking, as well as the projects I’m developing or have previously worked on. I am actively updating this repository as I achieve new progress in projects and classes.
