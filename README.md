@@ -1,5 +1,7 @@
+# Hi there! 👋
+
 <p align="left">
-  <img src="https://tenor.com/view/hello-waving-frog-wave-gif-23984000" width="350" alt="Waving hand">
+  <img src="https://media.tenor.com/kP3zR9Y2xXcAAAAC/hello-waving-frog.gif" width="350" alt="Hello Waving Frog">
 </p>
 
 # Bio
