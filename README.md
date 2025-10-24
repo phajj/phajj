@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkyZXQ3OXlpaHg0ZHlvaDdsd2w5bTk3dzBpMHFleXJ3eWs1ejhiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="350" alt="Waving hand">
+<p align="left">
+  <img src="https://tenor.com/view/hello-waving-frog-wave-gif-23984000" width="350" alt="Waving hand">
 </p>
 
 # Bio
