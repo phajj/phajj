@@ -23,7 +23,8 @@ Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimac
 
 ## First Year
 * [CSC1610] Problem Solving with Java  
-* [CSC2820] Data Structures  
+* [CSC2820] Data Structures
+* [DSE1001] Foundations of Data Science
 * [MTH1314] Discrete Mathematics  
 * [MTH2644] Combinatorics and Graph Theory  
 * [DES3830] Visual Web Design
