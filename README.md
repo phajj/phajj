@@ -5,6 +5,23 @@
 # Bio
 Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimack College**. This repository showcases my coursework and projects, both current and completed. I actively update it to reflect my ongoing progress in academic and development work.
 
+##  Tools 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Unity/unity1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+
+##  Programming Languages
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
+
+##  Operating Systems
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg">
+
 ## I’m currently working on
 * Developing in Java a semester-long project implementing an interpreter for a functional programming language  
 * Practicing the design and analysis of Python algorithms
