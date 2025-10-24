@@ -1,8 +1,7 @@
-# Hi there!
+### Hi there!
 
-## Bio
-Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimack College**.  
-This repository documents all the courses I have completed and am currently taking, as well as the projects I’m developing or have previously worked on.
+# Bio
+Hi, I am **Peter Hajj**, an undergraduate Computer Science student at **Merrimack College**. This repository documents all the courses I have completed and am currently taking, as well as the projects I’m developing or have previously worked on. I am actively updating this repository as I achieve new progress in projects and classes.
 
 ## I’m currently working on
 * Developing in Java a semester-long project implementing an interpreter for a functional programming language  
