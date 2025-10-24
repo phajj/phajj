@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-![Hello Waving Frog](https://media.tenor.com/kP3zR9Y2xXcAAAAC/hello-waving-frog.gif)
+![Hello Waving Frog](https://tenor.com/view/hello-waving-frog-wave-gif-23984000)
+
 
 
 # Bio
