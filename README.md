@@ -10,12 +10,12 @@ This repository showcases my coursework and projects, both current and completed
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phajj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phajj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=stars&hide_rank=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phajj&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phajj&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=phajj&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ##  Programming Languages
