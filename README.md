@@ -1,5 +1,7 @@
 # Bio
-Hi, I am **Peter Hajj**, an undergraduate student at **Merrimack College** majoring in **Computer Science** with minors in **Mathematics** and **Digital Media Creation**. On campus, I am the **Lab Manager** of the **Emergent Technologies** and **Spatial Computing** labs, where I maintain the labs' computers and VR/AR equipment, and I previously worked as an **IT Help Desk Technician**. I am also an **iTEC Peer Mentor**, providing academic support, peer tutoring, and TAing for underclass Computer Science students. As **President of the Merrimack Computer Club**, I have led workshops on Git & GitHub and coordinated other club events and activities.
+Hi, I am **Peter Hajj**, an undergraduate student at **Merrimack College** majoring in **Computer Science** with minors in **Mathematics** and **Digital Media Creation**. 
+
+On campus, I am the **Lab Manager** of the **Emergent Technologies** and **Spatial Computing** labs, where I maintain the labs' computers and VR/AR equipment, and I previously worked as an **IT Help Desk Technician**. I am also an **iTEC Peer Mentor**, providing academic support, peer tutoring, and TAing for underclass Computer Science students. Additionally, I am the **President of the Merrimack Computer Club**, where I lead workshops on Git & GitHub and coordinate other club events and activities.
 
 This summer, I interned as a **DevOps Engineer** at **oneITz**.
 
