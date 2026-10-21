@@ -15,7 +15,7 @@ This repository showcases my coursework and projects, both current and completed
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=phajj&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=phajj&theme=github-dark&hide_border=true&locale=en" alt="GitHub Streak" />
 </p>
 
 ##  Programming Languages
