@@ -18,6 +18,10 @@ This repository showcases my coursework and projects, both current and completed
   <img src="https://streak-stats.demolab.com/?user=phajj&theme=github-dark&hide_border=true&locale=en" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="profile-3d-contrib/radar_contrib_only.svg" alt="Contribution Radar Chart" height="250" />
+</p>
+
 ##  Programming Languages
 ![Java](https://img.shields.io/badge/Java-C0392B?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +44,9 @@ This repository showcases my coursework and projects, both current and completed
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=for-the-badge&logo=aframe&logoColor=white)
 
 ##  Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEgMWgxMHYxMEgxek0xMyAxaDEwdjEwSDEzek0xIDEzaDEwdjEwSDF6TTEzIDEzaDEwdjEwSDEzeiIvPjwvc3ZnPg==) <!-- Windows badge logo drawn by Claude Code: a white four-pane Windows logo, embedded as a base64 SVG. -->
