@@ -59,25 +59,25 @@ This repository showcases my coursework and projects, both current and completed
 # Relevant Courses
 
 ## First Year
-* [CSC1610] Problem Solving with Java  
-* [CSC2820] Data Structures
-* [DSE1001] Foundations of Data Science
-* [MTH1314] Discrete Mathematics  
-* [MTH2644] Combinatorics and Graph Theory  
+* [[CSC1610](https://catalog.merrimack.edu/preview_course.php?catoid=20&coid=28370)] Problem Solving with Java  
+* [[CSC2820](https://catalog.merrimack.edu/preview_course.php?catoid=20&coid=28377)] Data Structures
+* [[DSE1001](https://catalog.merrimack.edu/preview_course.php?catoid=20&coid=29253)] Foundations of Data Science
+* [[MTH1314](https://catalog.merrimack.edu/preview_course.php?catoid=20&coid=28707)] Discrete Mathematics  
+* [[MTH2644](https://catalog.merrimack.edu/preview_course.php?catoid=20&coid=28715)] Combinatorics and Graph Theory  
 * [DES3830] Visual Web Design
 
 ## Second Year 
-* [CSC2620] Object Oriented Design 
-* [CSC2710] Analysis of Algorithms  
-* [CSC3120] Programming Languages
-* [CSC3030] Randomized Algorithms 
-* [MTH3335] Linear Algebra
-* [MTH1014H] Math for Puzzles and Games
+* [[CSC2620](https://catalog.merrimack.edu/preview_course.php?catoid=22&coid=32096)] Object Oriented Design 
+* [[CSC2710](https://catalog.merrimack.edu/preview_course.php?catoid=22&coid=32097)] Analysis of Algorithms  
+* [[CSC3120](https://catalog.merrimack.edu/preview_course.php?catoid=22&coid=32115)] Programming Languages
+* [[CSC3030](https://catalog.merrimack.edu/preview_course.php?catoid=22&coid=32123)] Randomized Algorithms 
+* [[MTH3335](https://catalog.merrimack.edu/preview_course.php?catoid=22&coid=32438)] Linear Algebra
+* [[MTH1014](https://catalog.merrimack.edu/preview_course.php?catoid=24&coid=39681)] Math for Puzzles and Games
 
 ## Third Year (Current Year)
-* [CSC3155] Cryptography
-* [CSC3210] Computer Graphics
-* [MTH4800] Modeling and Simulation (Directed Study) 
+* [[CSC3155](https://catalog.merrimack.edu/preview_course.php?catoid=24&coid=35709)] Cryptography
+* [[CSC3210](https://catalog.merrimack.edu/preview_course.php?catoid=24&coid=35710)] Computer Graphics
+* [[MTH4800](https://catalog.merrimack.edu/preview_course.php?catoid=24&coid=36033)] Modeling and Simulation (Directed Study) 
 * [CSC3555] Computability and Complexity **(Planned for SP27)**
 * [CSC3055] Network Security **(Planned for SP27)**
 * [CSC3810] Databases **(Planned for SP27)**
